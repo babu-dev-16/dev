@@ -1,0 +1,12 @@
+{
+	"name": "gitlinkedservice",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobStorage",
+		"typeProperties": {
+			"connectionString": "DefaultEndpointsProtocol=https;AccountName=adfuat;EndpointSuffix=core.windows.net;",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDYwRkQzODM1LTFFQ0YtNDAyQi1BOEYxLTU5NTI5OENBNjQ0Ql8xNGM4ZDJiYi02NTg5LTQ5NTItOGI0MS05YTg2YjBiNmZkOGEiDQp9"
+		}
+	}
+}
