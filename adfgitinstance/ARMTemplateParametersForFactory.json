@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "adfgitinstance"
+		},
+		"gitlinkedservice_connectionString": {
+			"value": ""
 		}
 	}
 }
